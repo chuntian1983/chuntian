@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-public partial class Default2 : System.Web.UI.Page
+public partial class index : System.Web.UI.Page
 {
     //与微信公众账号后台的Token设置保持一致，区分大小写。
     private readonly string Token = "whchuntian";
